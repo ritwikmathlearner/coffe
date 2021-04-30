@@ -235,6 +235,7 @@ button {
 .ratings {
     display: flex;
     margin: 1rem 0;
+    color: gold;
 }
 
 .add-to-cart select {
